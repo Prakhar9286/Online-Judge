@@ -1,4 +1,4 @@
-# Django-Online-Judge
+This is an Online Judge Project Using Django
 
 ## Steps
 1. Clone the repo
@@ -9,5 +9,3 @@
 6. run `python manage.py runserver`
 7. Head over to `http://localhost:8000/` and play around.
 
-Next Steps:
-Code compilation and execution using gcc docker image instead of local gcc.
